@@ -151,7 +151,7 @@ if (!$user) {
             var obj = {
                 method: 'pay',
                 action: 'purchaseitem',
-                product: 'http://dogfightsgame.com/coins_set.html',
+                product: 'http://dogfightsgame.com/coin_set.html',
                 quantity: num,
                 quantity_min: 1,
                 quantity_max: 9999,
