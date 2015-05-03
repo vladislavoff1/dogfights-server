@@ -1,3 +1,3 @@
 # dogfights-server
 
-Server part of \href{https://apps.facebook.com/dog_fights/{DogFights game}
+Server part of [DogFights game](https://apps.facebook.com/dog_fights/)
