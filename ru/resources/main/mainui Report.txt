@@ -1,0 +1,188 @@
+mainui.swf Movie Report
+------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1        1287122        1287122    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                 12134
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+zoo_body                            1977            42                     0
+hunting_body                       16490            35                     0
+ring_body                           1326            35                     0
+training_camp_body                  2008            46                     0
+home_body                           1435            34                     0
+btn_training_camp                      0             0                     0
+embeded_fonts                          0           146                     0
+copy_right                             0            54                     0
+arena_item_highlight                  45             0                     0
+arena_enemy_item                      48             0                     0
+dog_home_info_titles                   0           111                     0
+dog_home_info_bg                      48             0                     0
+home_active_slots_titles               0           209                     0
+dog_info_titles                        0           142                     0
+dog_endurance_bar_line                42             0                     0
+endurance_icon_bg                    125             0                     0
+dexterity_icon_bg                    125             0                     0
+dog_dexterity_bar_line                 0             0                     0
+dog_info_bar_border                    0             0                     0
+dog_strength_bar_line                 42             0                     0
+dog_info_bar_bg                        0             0                     0
+dog_info_bg                           82             0                     0
+strength_icon_bg                     125             0                     0
+level_bar_border                       0             0                     0
+level_bar_bg                          31             0                     0
+level_bar_line                        42             0                     0
+user_image_no_image                   30            63                     0
+avatar_over_glow                      43             0                     0
+shop_item_hint_bg                     80             0                     0
+dialogs_bg                            80             0                     0
+shop_bg                              213            58                     0
+training_bg                          217            76                     0
+item_slot_bg                          46             0                     0
+training_item_slot_bg                 48             0                     0
+item_slot_highlight                   42             0                     0
+training_item_slot_highlight          43             0                     0
+battle                               102            38                     0
+BoundsBG                               0             0                     0
+splash                               373             0                     0
+picies                               619             0                     0
+SplashImage                        13134             0                     0
+addAppDialog                          84           156                     0
+moon                                 547             0                     0
+oblaka                              1968             0                     0
+ring_btn                               0             0                     0
+budka_btn                              0             0                     0
+zoo_btn                                0             0                     0
+mainScreenBG                        8286             0                     0
+fire                                2292             0                     0
+TownBG                              5717             0                     0
+WaitFullGameDialog                    67           482                     0
+btn_next                             950             0                     0
+btn_prev                            1042             0                     0
+strengthBar                           42             0                     0
+dexterityBar                          42             0                     0
+enduranceBar                          43             0                     0
+btn_ok                               459            89                     0
+charCreating                         135           292                     0
+btn_tab_clow                           0            52                     0
+btn_tab_fang                           0            52                     0
+btn_tab_armor                          0            52                     0
+btn_tab_drug                         362           103                     0
+btn_buy                                0             0                     0
+btn_next                             950             0                     0
+btn_prev                            1042             0                     0
+btn_close                            748             0                     0
+coin_icon                            657             0                     0
+inventory_popup                        0             0                     0
+btn_cancel                             0            53                     0
+btn_ok                               459            89                     0
+buy_item_amount_popup                  0             0                     0
+buy_item_popup                         0             0                     0
+zoo_shop                             348           430                     0
+battle_life_bar                      120             0                     0
+life_right                             0             0                     0
+avatar_bg                             63             0                     0
+round                                202           123                     0
+time_numbers                           0           145                     0
+battle_timer_bg                      360             0                     0
+oblaka                              1968             0                     0
+moon                                 547             0                     0
+arena_bg_07                         8858             0                     0
+arena_bg_06                        17211           253                     0
+arena_bg_05                        33723             0                     0
+arena_bg_04                        17839             0                     0
+arena_bg_03                        16513             0                     0
+arena_bg_01                        14775             0                     0
+arena_bg_08                            0             0                     0
+arena_bg_09                            0             0                     0
+arena_bg_010                           0             0                     0
+arena_bg_011                           0             0                     0
+arena_bg_02                        27022             0                     0
+boom06                              4844             0                     0
+boom05                              6594             0                     0
+boom04                              4317             0                     0
+boom01                              5460             0                     0
+cloud03                              233             0                     0
+boom02                                 0             0                     0
+boom07                              5460             0                     0
+boom08                              8642             0                     0
+fight_boom                             0             0                     0
+power                                  0            26                     0
+skill                                  0            27                     0
+endurance                             71            26                     0
+level_icon_bg                        164             0                     0
+btn_info                              43           171                     0
+btn_sell                              43            76                     0
+inventory_info_sell                   76             0                     0
+btn_sell_item                          0            54                     0
+sell_item_popup                       80           281                     0
+dogHome                               88            94                     0
+btn_attack                             0            58                     0
+btn_refresh                            0           108                     0
+btn_change_dog                         0            55                     0
+btn_invite                             0            60                     0
+reiting_avatar                       145             0                     0
+dog_info                               0           148                     0
+arena_bg                             180            69                     0
+info_popup                             0           216                     0
+info_popup_buy                         0           145                     0
+info_popup_buy_error                   0           136                     0
+avatar                                 0             0                     0
+level_bar                              0             0                     0
+wallet                              1099             0                     0
+userPanel                              0             0                     0
+fight_popup                           82             0                     0
+fight_popup_text                       0            74                     0
+fight_popup_appear_right               0             0                     0
+fight_popup_bg                        32             0                     0
+fight_popup_appear_left               63             0                     0
+btn_city                               0            54                     0
+btn_arena                              0            56                     0
+win_popup                            228           134                     0
+voice_exchange_bg                      0           348                     0
+voice_exchange_bg2                    80           189                     0
+btn_change                           471            59                     0
+sound_off                            607             0                     0
+sound_on                             416            65                     0
+friends_list_bg                      138           117                     0
+btn_nextnext                         752             0                     0
+btn_prevprev                         750             0                     0
+btn_hunting                            0             0                     0
+radio_button                         269             0                     0
+sms_payment_info                       0           364                     0
+money_exchange_value                   0           158                     0
+
+
+Tweened Shapes: 6178 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+FranklinGothic-Medium          1307     01Багдзнорсу
+Calibri                        4181     ,?Вавдеимнопртухчыьэ
+Impact                         1233    .012IPRВася
+ArialMT                        2151     ДПабвгежзилнопрстуцьэ
+Arial-BoldMT Bold  10 pts      1020     01257@diаворт
+Calibri-Bold Bold            225233     !"+,.0123456789:=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҇҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎ           ​‌‍‎‏‐‑‒–—―‖‗‘’‚‛“”„‟†‡•‣․‥…‧  ‪‫‬‭‮ ‰‱′″‴‵‶‷‸‹›※‼‽‾‿⁀⁁⁂⁃⁄⁅⁆⁇⁈⁉⁊⁋⁌⁍⁎⁏⁐⁑⁒⁓⁔⁕⁖⁗⁘⁙⁚⁛⁜⁝⁞ ⁠⁡⁢⁣⁤⁥⁦⁧⁨⁩⁪⁫⁬⁭⁮⁯₠₡₢₣₤₥₦₧₨₩₪₫€₭₮₯₰₱₲₳₴₵₶₷₸₹₺₻₼₽₾₿⃀⃁⃂⃃⃄⃅⃆⃇⃈⃉⃊⃋⃌⃍⃎⃏℀℁ℂ℃℄℅℆ℇ℈℉ℊℋℌℍℎℏℐℑℒℓ℔ℕ№℗℘ℙℚℛℜℝ℞℟℠℡™℣ℤ℥Ω℧ℨ℩KÅℬℭ℮ℯℰℱℲℳℴℵℶℷℸℹ℺℻ℼℽℾℿ⅀⅁⅂⅃⅄ⅅⅆⅇⅈⅉ⅊⅋⅌⅍ⅎ⅏⅐⅑⅒⅓⅔⅕⅖⅗⅘⅙⅚⅛⅜⅝⅞⅟ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫⅬⅭⅮⅯⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹⅺⅻⅼⅽⅾⅿↀↁↂↃ
+Arial-BoldMT Bold              2776     2358АБЗНОТавгдезиклмнорстухц
+
+ActionScript Bytes    Location
+------------------    --------
+             12134    Scene 1:Frame 1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+add_voices.jpg                 39549      347776   Imported JPEG=102
+Bitmap 14                       1136       10000   JPEG Quality=80
+arena_bg_013.jpg              173129     1439600   Imported JPEG=102
+arena_bg_011.jpg              205404     1439600   Imported JPEG=102
+arena_bg_010.jpg              151819     1439600   Imported JPEG=102
+arena_bg_09.jpg               172472     1439600   Imported JPEG=102
+
+
+
+

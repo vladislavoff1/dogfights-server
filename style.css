@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 100vw;
+    height: 97vh;
+    width: 100vh;
+}

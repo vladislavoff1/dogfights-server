@@ -1,0 +1,5 @@
+<resources path="resources/">
+	<ui path="start/">
+		<resource id="preloadingUI" file="start.swf" type="library" importance="important" /> 
+	</ui>
+</resources>

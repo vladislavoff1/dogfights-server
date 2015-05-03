@@ -1,0 +1,10 @@
+<resources path="resources/main/">
+	<resource id="mainUI" file="mainui.swf" type="library" importance="important" />
+	<resource id="dogslib" file="dogs.swf" type="library" importance="important" /> 
+	<resource id="dogslib2" file="dogs2.swf" type="library" importance="important" /> 
+	<resource id="itemslib" file="items.swf" type="library" importance="important" />
+	<resource id="traininglib" file="training.swf" type="library" importance="important" />
+	<resource id="audio.wait" type="sound" importance="important" file="wait_dog.mp3" />
+	<resource id="audio.win" type="sound" importance="important" file="win_dog.mp3" />
+	<resource id="audio.fight" type="sound" importance="important" file="fight.mp3" />
+</resources>
