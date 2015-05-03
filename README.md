@@ -1,3 +1,3 @@
 # dogfights-server
 
-Server part of [DogFights game](https://apps.facebook.com/dog_fights/)
+Server part of [DogFights](https://apps.facebook.com/dog_fights/) game.
