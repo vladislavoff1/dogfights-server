@@ -2,7 +2,6 @@
 
 set_error_handler(ErrorHandler);
 
-
 if($_GET['error']){
 	trigger_error($_GET['error']);
 }

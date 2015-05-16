@@ -7,9 +7,18 @@ html, body {
     height: 100%;
 }
 
+.pre_container {
+    text-align: center;
+}
+
 .container {
+    display: inline-block;
     margin: 0 auto;
     max-width: 100vw;
     height: 97vh;
     width: 100vh;
+}
+
+.container embed {
+    float: left;
 }

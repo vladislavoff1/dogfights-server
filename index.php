@@ -80,20 +80,26 @@ if (!$user) {
 <body>
     <div id="fb-root"></div>
     <script src="//connect.facebook.net/en_US/all.js"></script>
-    <div class="container">
-        <embed 
-            src="./<? echo $lang ?>/DogFights.swf" 
-            quality="high" 
-            width="100%" 
-            height="100%" 
-            name="myFlashMovie" 
-            FlashVars="<? if ($user > 0) echo "viewer_id=".$user."&"; ?>is_app_user=1&api_settings=262146" 
-            align="middle" 
-            allowScriptAccess="sameDomain" 
-            allowFullScreen="false" 
-            type="application/x-shockwave-flash" 
-            pluginspage="http://www.adobe.com/go/getflash" 
-        />
+    <div class="pre_container">
+        <iframe  src='//ads.ad4game.com/www/delivery/afr.php?zoneid=50185' framespacing='0' frameborder='no' scrolling='no' width='160' height='600'><a href='http://ads.ad4game.com/www/delivery/dck.php?n=a04bb654' target='_blank'><img src='//ads.ad4game.com/www/delivery/avw.php?zoneid=50185&amp;n=a04bb654' border='0' alt='' /></a></iframe>
+
+        <div class="container">
+            <embed 
+                src="./<? echo $lang ?>/DogFights.swf" 
+                quality="high" 
+                width="100%" 
+                height="100%" 
+                name="myFlashMovie" 
+                FlashVars="<? if ($user > 0) echo "viewer_id=".$user."&"; ?>is_app_user=1&api_settings=262146" 
+                align="middle" 
+                allowScriptAccess="sameDomain" 
+                allowFullScreen="false" 
+                type="application/x-shockwave-flash" 
+                pluginspage="http://www.adobe.com/go/getflash" 
+            />
+        </div> 
+        <iframe  src='//ads.ad4game.com/www/delivery/afr.php?zoneid=50185' framespacing='0' frameborder='no' scrolling='no' width='160' height='600'><a href='http://ads.ad4game.com/www/delivery/dck.php?n=a04bb654' target='_blank'><img src='//ads.ad4game.com/www/delivery/avw.php?zoneid=50185&amp;n=a04bb654' border='0' alt='' /></a></iframe>
+
     </div>
     <div id="topbar">
         <center><a href="https://dogfightsgame.com/?lang=en">English</a> <a href="https://dogfightsgame.com/?lang=ru">Russian</a>
@@ -142,9 +148,13 @@ if (!$user) {
         }
 
         function requestCallback() {
-            // print('requestCallback');
-            getSWF("myFlashMovie").update(0);
+            setTimeout(
+                function() {
+                    getSWF("myFlashMovie").update();
+                }, 1000);
+           
         }
+
 
         function buy(num) {
             //alert(num);
